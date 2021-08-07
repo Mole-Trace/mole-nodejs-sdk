@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "ioredis": "^4.27.7"
+  },
+  "devDependencies": {
+    "@types/ioredis": "^4.26.7"
+  },
+  "name": "mole-trace",
+  "version": "1.0.0",
+  "main": "lib/mole.ts",
+  "repository": "https://github.com/marefati110/mole-trace.git",
+  "license": "MIT"
+}
